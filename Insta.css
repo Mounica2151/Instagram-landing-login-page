@@ -1,0 +1,98 @@
+.first{
+	border: solid 2px #eee;
+	text-align: center;
+	width: 30%;
+	margin: auto;
+	
+}
+.first>a{
+	display: block;
+}
+.second{
+	border: solid 2px #eee;
+	text-align: center;
+	width: 30%;
+	margin: auto;
+	margin-top: 1%;
+}
+.img1{
+	margin: 7% 0%;
+}
+input{
+	width: 70%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color: #eee;
+	border: solid #eee 1px;
+	padding-left: 2%;
+	border-radius: 4px;
+}
+.ip1{
+	margin-bottom: 2%;
+}
+.ip2{
+	margin-bottom: 5%;
+}
+.btn1{
+	background-color: #3eb6f7;
+	border: none;
+	font-weight: 600;
+	color: white;
+	width: 70%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	border-radius: 6px;
+}
+h4{
+    font-weight: 500;
+ }
+ .a1{
+ 	text-decoration: none;
+ 	color: #2d2d7a;
+ 	font-weight: 600;
+ 	font-family: 'Roboto';
+ 	margin-bottom: 6%;
+ }
+.a2{
+	text-decoration: none;
+	color: #1d1d29;
+	font-weight: 550;
+	font-family: 'Roboto';
+	margin-bottom: 5%;
+}
+.sign{
+	color: #3eb6f7;
+	text-decoration: none;
+	font-weight: 900;
+	font-family: 'Roboto';
+}
+p{
+	text-align: center;
+	font-family: 'Roboto';
+}
+.final{
+	}
+
+.large{
+	margin-top: 2%;
+
+	}
+.img2{
+	text-align: center;
+}
+.main{
+	display: flex;
+	justify-content: center;
+}
+a{
+	color: grey;
+	text-decoration: none;
+	margin-right: 2%;
+	font-family: 'Roboto';
+}
+.neon:hover{
+	text-decoration: underline;
+}
+
+
+
