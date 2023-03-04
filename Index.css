@@ -1,28 +1,35 @@
-.first{
-	border: solid 2px #eee;
-	text-align: center;
-	width: 30%;
-	margin: auto;
-	
+
+.final{
+	display: flex;
+	flex-direction: row;
+	margin-left: 20%;
+
 }
-.first>a{
+.large{
+	margin-right: 7%;
+	margin-top: 4%;
+
+}
+.login{
+	border: solid 2px #eee;
+	width: 50%;
+	margin-top: 6%;
+	text-align: center;
+}
+.login>a{
 	display: block;
 }
-.second{
+.Signup{
 	border: solid 2px #eee;
 	text-align: center;
-	width: 30%;
-	margin: auto;
+	width: 50%;
 	margin-top: 1%;
-}
-.img1{
-	margin: 7% 0%;
 }
 input{
 	width: 70%;
 	padding-top: 3%;
 	padding-bottom: 3%;
-	background-color: #eee;
+	background-color: #fafafa;
 	border: solid #eee 1px;
 	padding-left: 2%;
 	border-radius: 4px;
@@ -44,15 +51,25 @@ input{
 	border-radius: 6px;
 }
 h4{
-    font-weight: 500;
- }
- .a1{
- 	text-decoration: none;
- 	color: #2d2d7a;
- 	font-weight: 600;
- 	font-family: 'Roboto';
- 	margin-bottom: 6%;
- }
+	font-weight: 500;
+}
+span{
+	margin-left: 1%;
+	margin-right: 1%;
+}
+hr{
+	width: 30%;
+	display: inline-block;
+	margin: 1% 1%;
+}
+
+.a1{
+	text-decoration: none;
+	color: #385185;
+	font-weight: 600;
+	font-family: 'Roboto';
+	margin-bottom: 6%;
+}
 .a2{
 	text-decoration: none;
 	color: #1d1d29;
@@ -70,16 +87,6 @@ p{
 	text-align: center;
 	font-family: 'Roboto';
 }
-.final{
-	}
-
-.large{
-	margin-top: 2%;
-
-	}
-.img2{
-	text-align: center;
-}
 .main{
 	display: flex;
 	justify-content: center;
@@ -87,12 +94,23 @@ p{
 a{
 	color: grey;
 	text-decoration: none;
-	margin-right: 2%;
+	margin-right: 1.5%;
 	font-family: 'Roboto';
+	font-size: 0.9rem;
 }
 .neon:hover{
 	text-decoration: underline;
 }
-
+.img1{
+	text-align: center;
+	margin: 8% 0%;
+}
+.app-store{
+	width: 50%;
+	text-align: center;
+}
+img{
+	margin-bottom: 10%;
+}
 
 
